@@ -15,7 +15,7 @@ export default function HomePage() {
               </div>
               <div>
                 <h1 className="text-xl font-bold text-foreground">
-                  CanIAccess.cn
+                  CanIAccess.xyz
                 </h1>
                 <p className="text-xs text-muted-foreground">
                   中国网站可访问性查询
