@@ -1,6 +1,7 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
 
+/* 自定义变量dark: 当父元素有dark类时应用样式 */
 @custom-variant dark (&:is(.dark *));
 
 :root {
