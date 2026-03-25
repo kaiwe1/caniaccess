@@ -52,7 +52,7 @@ export default function HomePage() {
             中国大陆网站可访问性查询
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-pretty">
-            查询在中国大陆不使用VPN的情况下，能否访问特定网站。数据仅供参考，实际访问情况可能因地区和网络环境而异。
+            查询在中国大陆不使用VPN的情况下，能否访问特定网站。数据仅供参考，DYOR。
           </p>
         </div>
 
@@ -64,8 +64,8 @@ export default function HomePage() {
       <footer className="border-t border-border mt-16">
         <div className="container mx-auto px-4 py-8">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
-            <p>本站数据仅供参考，不保证准确性</p>
             <p>灵感来源于 caniuse.com</p>
+            <p>vibe coding by: kaiwei zhang</p>
           </div>
         </div>
       </footer>
